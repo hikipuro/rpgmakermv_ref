@@ -1,2 +1,3 @@
-# rpgmakermv_ref
-RPGツクールMVのAPIリファレンス
+# RPGツクールMVのAPIリファレンス
+
+主に[Wiki](wiki)の方に書いています。
